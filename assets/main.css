@@ -1,7 +1,7 @@
 .jumbotron {
-    background-color: #A31F34;
-    padding-top: 0; 
-    padding-bottom: 0; 
+    background-color: #d03530;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 .jumbotron a {
@@ -9,8 +9,17 @@
 }
 
 body {
-    margin:auto;padding:0;color:#000;-webkit-transition:all;-moz-transition:all;-ms-transition:all;-o-transition:all;transition:all;
-    font-size:18px;text-align:justify;font-weight:400
+    margin: auto;
+    padding: 0;
+    color: #000;
+    -webkit-transition: all;
+    -moz-transition: all;
+    -ms-transition: all;
+    -o-transition: all;
+    transition: all;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400
 }
 
 .container {
